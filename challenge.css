@@ -1,0 +1,48 @@
+
+body {
+    background-color: lightgreen;
+  }
+
+.coverture{
+    
+    background-image: url(wledrkik.jpg);
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.west{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.greyy{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 32px;
+background: #92e897;
+box-shadow:  35px -35px 70px #6fb073,
+             -35px 35px 70px #b5ffbb;
+}
+.blackk{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 32px;
+    background: #92e897;
+box-shadow:  35px -35px 70px #6fb073,
+             -35px 35px 70px #b5ffbb;
+
+}
+.firstrow{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+
+}
